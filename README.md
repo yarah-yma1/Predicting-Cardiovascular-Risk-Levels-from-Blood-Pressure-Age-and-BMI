@@ -80,7 +80,7 @@ Project structure (simplified):
 ├── Predicting-Cardiovascular-Risk-Levels-from-Blood-Pressure-Age-and-BMI
 │
 ├── src
-│   └── main.py              # main script (entry point)
+│   └── cardio_risk_project.py   # main script (entry point)
 │
 ├── media                   # plots / visuals 
 │
@@ -111,7 +111,7 @@ Run the main script:
 
 ```
 
-python main.py
+python cardio_risk_project.py
 
 ```
 
