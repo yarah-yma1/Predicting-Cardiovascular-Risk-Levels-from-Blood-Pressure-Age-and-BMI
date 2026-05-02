@@ -136,18 +136,9 @@ The program will:
 [1] Framingham Heart Study Dataset:  
 https://raw.githubusercontent.com/GauravPadawe/Framingham-Heart-Study/master/framingham.csv  
 
-[2] Scikit-learn Documentation:  
-https://scikit-learn.org  
-
-[3] TensorFlow Documentation:  
-https://www.tensorflow.org  
-
-[4] Matplotlib Documentation:  
-https://matplotlib.org  
-
-[5] Cursor AI (used for development support):  
+[2] Cursor AI (used for development support):  
 https://cursor.sh  
 
-[6] Google Colab:  
+[3] Google Colab:  
 https://colab.research.google.com  
 
