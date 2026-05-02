@@ -52,7 +52,7 @@ tensorflow
 
 ```
 
-Install dependencies with:
+Install dependencies with: (none at the moment)
 
 ```
 
