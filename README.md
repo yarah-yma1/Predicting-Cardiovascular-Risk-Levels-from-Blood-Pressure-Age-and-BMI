@@ -80,8 +80,8 @@ Project structure (simplified):
 ├── Predicting-Cardiovascular-Risk-Levels-from-Blood-Pressure-Age-and-BMI
 │
 ├── src
-│   └── cardio_risk_project.py   # main script (entry point)
-│
+│   └── cardio_risk_project.py   # main script (entry point) 
+│   └── cardio_risk_project.ipynb   # notebook showing outputs
 ├── media                   # plots / visuals 
 │
 ├── README.md
