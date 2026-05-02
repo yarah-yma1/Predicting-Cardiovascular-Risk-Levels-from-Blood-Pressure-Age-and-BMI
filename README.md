@@ -6,8 +6,8 @@ This project focuses on classifying cardiovascular risk levels (low, moderate, h
 
 ## Table of Contents
 * Implementation
-* Requirements
 * Organization
+* Requirements
 * Installation
 * Running the Project
 * Citations and References
@@ -31,6 +31,33 @@ The workflow of the project is:
 7. Visualize results (training curves, feature importance, comparison graphs)
 
 This project was developed and tested using **Google Colab**, which allowed for easy execution and visualization without local setup. Additionally, **Cursor AI** was used during development to assist with code generation, debugging, and structuring the project.
+
+---
+
+## Organization
+
+Project structure (simplified):
+
+```
+
+.
+├── Predicting-Cardiovascular-Risk-Levels-from-Blood-Pressure-Age-and-BMI
+│── docs # important pdfs (none right now)
+├── src
+│   └── cardio_risk_project.py   # main script (entry point) 
+│   └── cardio_risk_project.ipynb   # notebook showing outputs
+├── media                   # plots / visuals 
+│   └── CNN-accuracy-loss.png
+│   └── CNN-confusion-matrix.png
+│   └── model-comparison.png
+│   └── random-forest-confusion-matrix.png
+│   └── random-forest-feature-importance.png
+│
+├── README.md
+├── requirements.txt       # important installations (none right now since ran on Google Colab)
+└── .gitignore
+
+```
 
 ---
 
@@ -65,28 +92,6 @@ Or manually:
 ```
 
 pip install numpy pandas matplotlib scikit-learn tensorflow
-
-```
-
----
-
-## Organization
-
-Project structure (simplified):
-
-```
-
-.
-├── Predicting-Cardiovascular-Risk-Levels-from-Blood-Pressure-Age-and-BMI
-│
-├── src
-│   └── cardio_risk_project.py   # main script (entry point) 
-│   └── cardio_risk_project.ipynb   # notebook showing outputs
-├── media                   # plots / visuals 
-│
-├── README.md
-├── requirements.txt       # none right now since ran on Google Colab
-└── .gitignore
 
 ```
 
