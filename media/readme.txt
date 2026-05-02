@@ -1,1 +1,1 @@
-important visuals + images can be found here 
+Important visuals + images can be found here.
