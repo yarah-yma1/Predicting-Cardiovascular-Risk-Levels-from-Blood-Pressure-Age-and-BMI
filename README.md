@@ -42,11 +42,12 @@ Project structure (simplified):
 
 .
 ├── Predicting-Cardiovascular-Risk-Levels-from-Blood-Pressure-Age-and-BMI
-│── docs # important pdfs (none right now)
+│── docs                            # important pdfs (none right now)
+│   └── readme.txt
 ├── src
-│   └── cardio_risk_project.py   # main script (entry point) 
+│   └── cardio_risk_project.py      # main script (entry point) 
 │   └── cardio_risk_project.ipynb   # notebook showing outputs
-├── media                   # plots / visuals 
+├── media                           # plots / visuals 
 │   └── CNN-accuracy-loss.png
 │   └── CNN-confusion-matrix.png
 │   └── model-comparison.png
@@ -54,7 +55,7 @@ Project structure (simplified):
 │   └── random-forest-feature-importance.png
 │   └── readme.txt
 ├── README.md
-├── requirements.txt       # important installations (none right now since ran on Google Colab)
+├── requirements.txt               # important installations (none right now since ran on Google Colab)
 └── .gitignore
 
 ```
