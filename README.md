@@ -55,7 +55,7 @@ Project structure (simplified):
 │   └── random-forest-feature-importance.png
 │   └── readme.txt
 ├── README.md
-├── requirements.txt               # important installations (none right now since ran on Google Colab)
+├── requirements.txt               # important installations 
 └── .gitignore
 
 ```
@@ -80,7 +80,7 @@ tensorflow
 
 ```
 
-Install dependencies with: (none at the moment)
+Install dependencies with:
 
 ```
 
