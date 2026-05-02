@@ -52,7 +52,7 @@ Project structure (simplified):
 │   └── model-comparison.png
 │   └── random-forest-confusion-matrix.png
 │   └── random-forest-feature-importance.png
-│
+│   └── readme.txt
 ├── README.md
 ├── requirements.txt       # important installations (none right now since ran on Google Colab)
 └── .gitignore
