@@ -121,8 +121,9 @@ The program will:
 - Display confusion matrices  
 - Show CNN training graphs (accuracy and loss)  
 - Show feature importance for Random Forest  
-- Display a final model comparison graph  
+- Display a final model comparison graph
 
+---
 
 ## Citations and References
 
